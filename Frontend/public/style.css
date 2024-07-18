@@ -1,0 +1,4 @@
+/* styles.css */
+.custom-toast {
+  z-index: 2000 !important; /* Ensure this is higher than the dialog's z-index */
+}
